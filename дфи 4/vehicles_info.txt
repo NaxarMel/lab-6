@@ -1,0 +1,12 @@
+Brand: Toyota, Year: 2005
+Type: Car, Number of Seats: 1223
+--------------------------------
+Brand: dgncg, Year: 5678
+Type: Truck, Payload Capacity: 457 tons
+--------------------------------
+Brand: toyota, Year: 3456
+Type: Ship, Displacement: 46 tons
+--------------------------------
+Brand: toyota, Year: 23334
+Type: Airplane, Max Altitude: 1234 feet
+--------------------------------
